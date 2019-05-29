@@ -1,0 +1,67 @@
+.myContainer{
+    position: absolute;
+    margin-left:8%;
+    margin-right: 8%;
+    width: 80%;
+}
+
+.myContainerHeading{
+    text-align: center;
+    color: #31708f;
+    /* margin-top: 4%; */
+}
+
+
+.myheading{
+    text-align: left;
+    background : lightseagreen; 
+     height: 40px;
+     padding-left: 20px; 
+     padding-top: 5px;
+     color:white; 
+   }
+
+   .headingButton{
+    margin-top: 1.9%;
+    height: 40px;
+   }
+
+   .imagePreview {
+    height: 140px;
+    max-height: 100%;
+    max-width: 100%;
+    margin-top: 19px;
+}
+
+.image-delete {
+    position: absolute;
+    left: 15px;
+    background: #fff;
+}
+
+.text-success {
+    color: #3c763d;
+    width: 20px;
+    margin-top: 18px;
+    height: 20px;
+    padding: 0px;
+}
+
+
+.DraftEditor-editorContainer {
+    background-color: rgba(255,255,255,0);
+    border-left: .1px solid transparent;
+    position: relative;
+    z-index: 0; 
+}
+
+.rdw-editor-wrapper {
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+    border: 1px solid #e6e6e6;
+    min-height: 210px;
+}
+
+.draft-editor-inner {
+    padding: 0 10px;
+}

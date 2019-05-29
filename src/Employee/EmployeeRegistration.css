@@ -1,0 +1,125 @@
+.EmpheaderCon{
+    margin-top:51px;  
+}
+
+.EmpBootstrap
+{
+    margin-top: 55px;
+}
+
+.formHeading{
+ text-align: left;
+ background : lightseagreen; 
+  height: 45px;
+  padding-left: 20px; 
+  padding-top: 9px;
+  color:white; 
+}
+
+.btn-xl {
+  width: 30px;
+  height: 30px;
+  padding: 10px 10px;
+  line-height: 1.33;
+  border-radius: 50%;
+  background-color: #ffffff;
+  text-align: center;
+  font-size: 14px;
+  border-width: 2px;
+  border-color: #00ABE2;
+  display: inline-block;
+}
+
+.horizontal{
+    display: inline-block;
+    width: 100px;
+}
+
+
+.btn-circle {
+  width: 35px;
+  height: 32px;
+  text-align: center;
+  padding: 6px 0;
+  font-size: 12px;
+  line-height: 1.428571429;
+  border-radius: 15px;
+  margin-top: 0.5%;
+}
+
+.empDates{
+    line-height: 19px;
+}
+.btnClose{
+    margin-right: 4%;
+    width: 30px; 
+    background: white;
+    height: 30px; 
+}
+.btnSave{
+    margin-left: 50%;
+    margin-bottom: 8px;
+}
+.btnPayscaleSubmit{
+    margin-left: 50%;
+    margin-top: 1%;
+}
+
+
+ .selectDropdown{
+     z-index: 1000px;
+ }
+
+
+.docSearch{
+    padding:10px 0;
+    background-color: lightgray;
+    margin-bottom: 10px;
+    height:110px;
+    margin-top: 5%;
+}
+
+.empListContainer{
+  position: absolute;
+  margin-left:8%;
+  margin-right: 8%;
+  padding-top: 30px;
+}
+
+.empContainer{
+  position: absolute;
+  margin-left:8%;
+  margin-right: 8%;
+  margin-top: 2%;
+ 
+}
+
+
+.imagePreview {
+    width: 91%;
+    height: 80px;
+    background-position: center center;
+    /* background:url(http://cliquecities.com/assets/no-image-e3699ae23f866f6cbdf8ba2443ee5c4e.jpg); */
+    background-color:#fff;
+    background-size: cover;
+    background-repeat:no-repeat;
+    display: inline-block;
+  box-shadow:0px -3px 6px 2px rgba(0,0,0,0.2);
+}
+
+.imgbtn-primary
+{
+  display:block;
+  border-radius:0px;
+  box-shadow:0px 4px 6px 2px rgba(0,0,0,0.2);
+  margin-top:-5px;
+  width: 91%;
+}
+/* .imgUp
+{
+  margin-bottom:15px;
+} */
+ 
+.pleft0{
+    padding-left: 0 !important;
+}

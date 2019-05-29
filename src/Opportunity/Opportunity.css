@@ -1,0 +1,235 @@
+.ContainerStyle{
+   
+    /* border: 1pt solid #cccbcb; */
+    float: left;
+    background: #f7f7f7;
+    margin-bottom: 9px;
+    /* border-radius: 7px; */
+}
+
+.mTop10{
+    margin-top: 10px ;
+}
+.formstyle{
+    padding: 10px;
+}
+
+.items-table td{
+    border-top:none!important; 
+  }
+  .items-table tr:nth-child(odd){
+    border-top: 1pt solid #ddd!important;
+  }
+  
+  .items-table{
+    margin-bottom: 0!important;
+  }
+  .items-table input[type="checkbox"]{
+    margin: 10px 0;
+  }
+
+  .itemsBlock{
+    /* padding: 10px;
+    border: 1pt solid #b7b7b7;
+    float: left;
+    border-radius: 7px; */
+  }
+
+  .text-success {
+    color: white;
+    padding-left: 8px;
+    padding-right: 16px;
+    padding-bottom: 3px;
+    padding-top: 4px;
+}
+
+.text-danger {
+    color: white;
+    padding-left: 8px;
+    padding-right: 16px;
+    padding-bottom: 3px;
+    padding-top: 4px;
+}
+ 
+.colxs1{
+    width: 5.333333%
+}
+
+.formtextArea{
+    margin: 0px;
+     width: 674px;
+      height: 77px;
+      resize: vertical;
+}
+
+.mLeft5{
+    margin-left: 1%;
+}
+
+.table > tbody > tr > td {
+    line-height: 1;
+    vertical-align: top;
+    border-top: 1px solid #ddd;
+    padding-top: 6px;
+    padding-bottom: 4px;
+}
+
+.txtRight{
+    text-align: right;
+}
+
+.mytable {
+    border: 1px solid black;
+    padding: 4px;
+    width: 100%;
+}
+
+ .mytable th, td {
+    border: 1px solid white;
+    padding: 3px;
+    text-align: left;
+    border-bottom: 0.25px solid #ddd;
+}
+
+ .mytable > tr > th{
+    background: #e7e9eb;
+}
+
+.btn {
+    font-size: 11px;
+}
+
+.btnLeft{
+    text-align: right;
+    margin-bottom: 0.5%;
+    font-size: 18px;
+}
+
+.actionTable > tbody>tr>th{
+    background: #526b77;
+    color: rgb(41, 38, 38);
+}
+
+
+.mytable {
+    border: 1px solid black;
+    padding: 4px;
+    width: 100%;
+}
+
+ .mytable th, td {
+    /* border: 1px solid white;
+    padding: 3px;
+    text-align: left;
+    border-bottom: 0.25px solid #ddd; */
+
+    border: 1px solid #928a8a;
+    padding: 5px;
+    text-align: left;
+    border-bottom: 0.25px solid #928a8a;
+}
+
+.mytable tr, td{
+    border: 1px solid #928a8a;
+    padding: 5px;
+    text-align: left;
+    border-bottom: 0.25px solid #928a8a;
+}
+
+.mTop4{
+    margin-top: 4.5%;
+}
+
+.pointer{
+    cursor: pointer;
+}
+
+.commentsTextArea{
+    margin: 0px;
+    width: 100%;
+    min-height: 75px;
+    resize: vertical;
+}
+
+.btn {
+    font-size: 14px;
+}
+
+.fr-box {
+    position: relative;
+    z-index: 0;
+}
+
+.file-preview {
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    padding: 8px;
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+.file-drop-zone {
+    border: 1px dashed #aaa;
+    border-radius: 4px;
+    height: 100%;
+    text-align: center;
+    vertical-align: middle;
+    margin: 12px 15px 12px 12px;
+    padding: 5px;
+}
+
+.file-drop-zone-title {
+    color: #aaa;
+    font-size: 1.6em;
+    padding: 0;
+    cursor: default;
+}
+
+.mybutton{
+   height: 45px;
+}
+
+.headertable> tbody> tr>th{
+    background: rgb(247, 247, 247)
+}
+
+.actionpanel {
+    margin-bottom: 20px;
+    background-color: rgb(255, 255, 255);
+    border: 1!important;
+}
+
+.width12{
+    width: 12%;
+}
+
+.draft-editor-inner {
+    padding: 1px 2px;
+}
+.response-editor-wrapper{
+    border: 0px solid #e4dede;
+    min-height:  0px;
+    margin: -1em 0;
+}
+
+.hide-toolbar { display:none !important; }
+
+.public-DraftStyleDefault-block {
+    padding-left:5px;
+    margin: -1em 0;
+    margin-bottom: 0%;
+}
+
+.Select-menu-outer{
+z-index: 10000;
+}
+
+.file-drop-zone {
+    border: 1px dashed #aaa;
+    border-radius: 4px;
+    height: 100%;
+    text-align: center;
+    vertical-align: middle;
+    margin: 0px 16px 0px 0px;
+    padding: 0px;
+}

@@ -1,0 +1,33 @@
+.descTextArea{
+    resize: vertical;
+}
+
+.headingColor{
+    color: #175f63;
+}
+
+.Select.symbols{
+    width:90% !important
+}
+
+
+
+/* #quantity{
+    width: 40% !important;
+    padding-left: 5px;
+} */
+
+
+
+.Select.symbol{
+    width: 40%!important;
+  }
+  
+  .Select.symbol .Select-menu-outer{
+    min-width: 10px;
+    max-width: 70px;
+  }
+  
+  #quantity{
+    width: 50%!important;
+  }
